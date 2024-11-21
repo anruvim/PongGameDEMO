@@ -1,2 +1,2 @@
-# PongGameDEMO
-Тестовое задание для компании IQ Clash.
+#Unity PongGameDEMO
+Unity Text Task
